@@ -1,2 +1,14 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# Article: For Young Female Coders, Internship Interviews Can Be Toxic
+## [Link to article](https://www.wired.com/story/for-young-female-coders-internship-interviews-can-be-toxic/)
+In "For Young Female Coders, Internship Interviews Can Be Toxic", Nitasha Tiku outlines the difficulties young women face in the technology industry. She highlights the fact that these struggles begin before women even join the workforce. I found this article interesting because it succintly sums up the difficult realities of being a female software developer in a personal and conversational way. Additionally, it briefly covers the "pipeline issue" in which girls and young women are discouraged from pursuing software engineering throughout school and even from a very young age, which resonates with my belief that there is a need for a more supportive environment for girls in tech. Although this article is a couple years old now, I like the way Tiku includes short interviews and brings up multiple aspects of the issue, and I think it makes a particularly relatable read for many college-age women in computer science. Reading on this issue is important for anyone who is going into technology, so that they are aware and can help contribute to a solution. It also draws attention to the fact that there are social issues at play even when discussing a seemingly unrelated topic, such as software engineering.
+
+## Comments
+This article tackles the problem of a toxic and problematic work environment. This is especially prevalent in the experience of young women entering the workforce. The article does a good job in highlighting this problem.
+---
+### Ian4128
+I loved the comment,
+
+> Tech has solved some of the world’s biggest challenges—but it hasn’t cracked the one closest to home: toxic, sexist workplace culture.
+
+As someone interested in the video game industry, these issues [are just as prevalent if not worse](https://techcrunch.com/2022/10/13/activision-blizzard-is-once-again-being-sued-for-sexual-harassment/), and I think in general, software development and it's culture shouldn't be idolized as much as it is. As the article mentioned, the barrier to entry for women and minority groups in CS may be moving past college and into the hiring process, and I think it's cool that maybe this means we have a chance as college students to start redefining tech culture and creating our own. 
+As an example, I noticed a remark about how discord was a barrier for entry into CS for women. I like discord, but even as a man I find it offputting to join a discord server for school and you can clearly see who has just made new accounts and who has always had discord based on their usernames and profile pictures (which are often anime girls). At the same time, if done right, maybe it's better to introduce everyone to popular software within tech/nerd culture such as discord. If classes only use more professional software like slack, maybe that also creates a barrier for entry which prevents people from really becoming part of the tech world (by relegating them strictly to the professional environment and keeping them socially apart).
