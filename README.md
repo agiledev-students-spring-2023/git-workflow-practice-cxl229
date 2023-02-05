@@ -4,3 +4,7 @@ In "For Young Female Coders, Internship Interviews Can Be Toxic", Nitasha Tiku o
 
 ## Comments
 This article tackles the problem of a toxic and problematic work environment. This is especially prevalent in the experience of young women entering the workforce. The article does a good job in highlighting this problem.
+
+## Aleeza Wolff:
+
+I agree that this article is an important read for college women in computer science, and appreciate that you shared it with us. I think there is an assumption that since there is a smaller female presence in tech than there is male, it is somehow easier for women to find roles in the field, but I do not think that is actually the case. As we can see from this article, there is not as much oppertunity given to women in tech and we are not guaranteed a job any more than a man is. I know you mentioned the artcile to be a few years old, and am curious if more recent studies would be different. 
